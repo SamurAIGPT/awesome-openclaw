@@ -307,6 +307,12 @@ A curated list of community-built projects, tools, and integrations for OpenClaw
 | [openclaw-trader](https://github.com/tradebots/openclaw-trader) | 400+ | Crypto trading automation |
 | [claw-finance](https://github.com/fintech/claw-finance) | - | Financial data analysis skills |
 
+### Development Workflows
+
+| Project | Stars | Description |
+|---------|-------|-------------|
+| [FTW](https://github.com/SmokeAlot420/ftw) | NEW | First Try Works — PIV (Plan-Implement-Validate) workflow with independent validation agents |
+
 ### Miscellaneous
 
 | Project | Stars | Description |
