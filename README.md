@@ -257,6 +257,7 @@ A curated list of community-built projects, tools, and integrations for OpenClaw
 | [webclaw](https://github.com/ibelick/webclaw) | 155+ | Fast, minimal web client for OpenClaw |
 | [openclaw-web](https://github.com/anthropics/openclaw-web) | - | Official web interface |
 | [clawterm](https://github.com/nicholaschen/clawterm) | - | Terminal-based OpenClaw client |
+| [PinchChat](https://github.com/MarlBurroW/pinchchat) | - | Open-source webchat UI with ChatGPT-like interface, live tool call visualization, multi-session management, token tracking, streaming, PWA, 8 languages |
 
 ### Deployment & Infrastructure
 
