@@ -257,6 +257,7 @@ A curated list of community-built projects, tools, and integrations for OpenClaw
 | [webclaw](https://github.com/ibelick/webclaw) | 155+ | Fast, minimal web client for OpenClaw |
 | [openclaw-web](https://github.com/anthropics/openclaw-web) | - | Official web interface |
 | [clawterm](https://github.com/nicholaschen/clawterm) | - | Terminal-based OpenClaw client |
+| [VibeClaw](https://vibeclaw.dev) | - | Runs a full OpenClaw instance in the browser — visual server builder, sandbox with free AI models, server library. No install required ([source](https://github.com/jasonkneen/vibeclaw)) |
 
 ### Deployment & Infrastructure
 
