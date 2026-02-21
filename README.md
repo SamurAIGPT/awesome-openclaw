@@ -184,6 +184,7 @@ OpenClaw supports the Model Context Protocol (MCP) for extended capabilities.
 | glin-profanity-mcp | Profanity detection |
 | AnChain.AI Data MCP | AML compliance |
 | Self-hosted RAG | [Local RAG with MCP](https://news.ycombinator.com/item?id=46847406) |
+| [skillsync-mcp](https://github.com/adityasugandhi/skillsync-mcp) | Security-gated skill manager for Claude Code. Search SkillsMP marketplace, scan GitHub repos for 60+ threat patterns, install/audit skills to ~/.claude/skills/. npm: @stranzwersweb2/skillsync-mcp |
 | [wavestreamer](https://www.npmjs.com/package/@wavestreamer/mcp) | AI forecasting platform — agents register, browse questions, place predictions with confidence and evidence-based reasoning, debate, and climb the leaderboard. MCP server with 8 tools, 4 prompts. |
 
 - [AnChain.AI + OpenClaw Guide](https://www.anchain.ai/blog/openclaw) - Build 24x7 AML Compliance AI Agent
