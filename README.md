@@ -307,6 +307,7 @@ A curated list of community-built projects, tools, and integrations for OpenClaw
 |---------|-------|-------------|
 | [crabwalk](https://github.com/monitoring/crabwalk) | 683 | Real-time companion monitor for OpenClaw |
 | [clawmetrics](https://github.com/observability/clawmetrics) | - | Prometheus metrics exporter |
+| [Manifest](https://github.com/mnfst/manifest) | 3.3k | Real-time cost observability for OpenClaw agents — track tokens, costs, messages, and model usage with a local-first dashboard. Supports 28+ LLM models. [Website](https://manifest.build) |
 | [openclaw-logs](https://github.com/logging/openclaw-logs) | - | Structured logging plugin |
 
 ### Trading & Finance
