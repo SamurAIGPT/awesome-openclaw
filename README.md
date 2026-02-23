@@ -425,3 +425,5 @@ This list is released into the public domain under CC0 1.0.
 ---
 
 *Last updated: February 2026*
+
+- [ODEI](https://api.odei.ai) - Constitutional world model for AI agents. Neo4j knowledge graph (91 nodes, 6 domains), 7-layer safety guardrails. [GitHub](https://github.com/odei-ai/web)
