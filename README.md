@@ -122,6 +122,7 @@ Access the built-in web dashboard at `http://localhost:18789/` to chat, manage i
 ### Notable Skills
 
 - [LinkedIn](https://github.com/Linked-API/linkedin-skills) - General-purpose LinkedIn automation via [Linked API](https://linkedapi.io) — fetch profiles, search people and companies, send messages, manage connections, create posts, and more. Supports Sales Navigator and custom workflows. [ClawHub](https://clawhub.ai/vprudnikoff/linkedapi-linkedin)
+- [LobsterMail](https://lobstermail.ai/) - Email infrastructure for AI agents — agents self-provision inboxes with no human signup or API keys. Prompt injection scanning, SPF/DKIM/DMARC, per-account reputation isolation. `clawhub install lobstermail-agent-email` | [ClawHub](https://clawhub.ai/samuelchenardlovesboards/lobstermail-agent-email)
 - [tweetclaw](https://github.com/Xquik-dev/tweetclaw) - OpenClaw plugin for X/Twitter automation — post tweets, reply, like, retweet, follow, DM, search, extract data, run giveaways, monitor accounts. 40+ endpoints via Xquik. `openclaw plugins install @xquik/tweetclaw`
 - [x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) - X API & Twitter scraper skill for AI coding agents — 40+ tools including tweet search, user lookup, follower extraction, engagement metrics, giveaway draws, trending topics, write actions & Telegram integrations. REST API, MCP server & webhooks.
 
