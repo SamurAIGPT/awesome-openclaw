@@ -525,3 +525,12 @@ This list is released into the public domain under CC0 1.0.
 *Last updated: February 2026*
 
 - Agentic Signal — paid BTC/ETH DCA signal API (x402 USDC on Base) + signed responses + proof/backtests. Docs: https://signal.agenticsignal.dev/docs
+
+- [晴晴终极套件 (openclaw-ultimate-suite)](https://github.com/wd041216-bit/openclaw-ultimate-suite) - 63+ skills one-stop integration × auto-activation × multi-model parallel × Feishu file delivery × aesthetic design (25 skills) × monitoring dashboard | 晴晴整合 63+ 实用技能，自动激活效率提升 12x，免费本地安全检测 100% 通过，多模型协作 2.7x 加速。
+
+
+### 晴晴终极套件
+- [wd041216-bit/openclaw-ultimate-suite](https://github.com/wd041216-bit/openclaw-ultimate-suite) - OpenClaw 终极技能整合套件 - 29 个技能一站式整合 × 61 个专业 Agent × 安全内置 × 自动激活 × 飞书集成
+
+### 晴晴终极套件
+- [wd041216-bit/openclaw-ultimate-suite](https://github.com/wd041216-bit/openclaw-ultimate-suite) - OpenClaw 终极技能整合套件 - 29 个技能一站式整合 × 61 个专业 Agent × 安全内置 × 自动激活 × 飞书集成
