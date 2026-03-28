@@ -274,6 +274,7 @@ OpenClaw supports the **Model Context Protocol (MCP)** — the open standard ado
 ### Security Analysis
 
 - [What Security Teams Need to Know](https://www.crowdstrike.com/en-us/blog/what-security-teams-need-to-know-about-openclaw-ai-super-agent/) - CrowdStrike
+- [ReleaseRun](https://releaserun.com/) - Free browser-based tools for dependency CVE scanning, EOL detection, and security health checks across npm, PyPI, Go, Rust, Maven, and more. No install required.
 
 ---
 
