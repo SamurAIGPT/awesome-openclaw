@@ -394,6 +394,7 @@ A curated list of community-built projects, tools, and integrations for OpenClaw
 | [Agent Modes Checker](https://github.com/illbnm/openclaw-agent-modes) | NEW | Self-check framework for AI usage patterns — Captain/Architect/Abdicator decision tree, interactive CLI tool, local model recommendations, Fast Mode guide (v2026.3.12), K8s deployment |
 | [FTW](https://github.com/SmokeAlot420/ftw) | NEW | First Try Works — PIV (Plan-Implement-Validate) workflow with independent validation agents |
 | [miniclaw-os](https://github.com/augmentedmike/miniclaw-os) | NEW | Batteries-included plugin ecosystem for OpenClaw on Mac mini home servers — includes mc-board (Kanban agent), mc-seo (SEO automation + rank tracking), mc-email (multi-account email), mc-kb (vector knowledge base), mc-designer (AI image generation), mc-human (VNC desktop control), mc-youtube (video pipeline), and more. Turn your Mac mini into a fully autonomous personal AI OS. |
+| [ClawTeam-OpenClaw](https://github.com/win4r/ClawTeam-OpenClaw) | 1,001 | OpenClaw-native multi-agent orchestration framework — intent-based prompts, Boids emergent coordination, circuit breaker resilience, cost dashboard, and per-agent model resolution. Built on HKUDS/ClawTeam with OpenClaw-specific features. |
 
 ### Content & Publishing
 
@@ -516,6 +517,7 @@ Run `npm install -g openclaw@latest` then `openclaw onboard` to start the setup 
 | [lambda-lang](https://github.com/voidborne-d/lambda-lang) | NEW | Native agent-to-agent language with 3x character compression vs natural language. 340+ semantic atoms across 7 domains, Go + Python implementations. `clawhub install lambda-lang` |
 | [NoizAI/skills](https://github.com/NoizAI/skills) | NEW | Human-like TTS workflow skills with local/cloud backends, style presets, and voice message delivery scripts. |
 | [humanize-chinese](https://github.com/openclaw/skills/tree/main/skills/swaylq/humanize-chinese) | NEW | Detect and humanize AI-generated Chinese text with 6 style transforms and 16 detection patterns. Pure Python, no dependencies. `clawhub install humanize-chinese` |
+| [openclaw-a2a-gateway](https://github.com/win4r/openclaw-a2a-gateway) | 378 | A2A (Agent-to-Agent) v0.3.0 protocol plugin for OpenClaw — bio-inspired routing, mDNS discovery, circuit breaker, and DevTools CLI. 486 tests. |
 
 ---
 
