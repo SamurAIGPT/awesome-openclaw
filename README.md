@@ -176,6 +176,7 @@ openclaw plugins install <npm-package>
 ### Community Plugins
 
 - [clawsocial-plugin](https://github.com/mrpeter2025/clawsocial-plugin) - Social discovery network — helps users find and connect with people who share their interests through their AI agent. Semantic matching, real-time messaging, profile cards, web inbox. Ready to use out of the box.
+- [tweetclaw](https://github.com/Xquik-dev/tweetclaw) - X/Twitter automation plugin. Post tweets, reply, like, retweet, follow, DM, plus a background event poller for mentions and monitor hits. Also listed on ClawHub and published to npm as `@xquik/tweetclaw`.
 
 ---
 
