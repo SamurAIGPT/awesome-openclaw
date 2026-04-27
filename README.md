@@ -325,6 +325,7 @@ A curated list of community-built projects, tools, and integrations for OpenClaw
 | [Nerve](https://github.com/daggerhashimoto/openclaw-nerve) | NEW | Self-hosted web cockpit for OpenClaw — real-time streaming with reasoning blocks, voice I/O (local STT/TTS), sub-agent session monitoring, cron job management, memory editor, inline TradingView/Recharts, code editor, model selector. One-command install. [Website](https://nerve.zone) |
 | [SwarmClaw](https://github.com/swarmclawai/swarmclaw) | NEW | Self-hosted AI agent orchestration dashboard with multi-provider support, task scheduling, and per-agent OpenClaw gateway bridging. |
 | [openclaw-web](https://github.com/anthropics/openclaw-web) | - | Official web interface |
+| [Onepilot](https://onepilotapp.com) | NEW | iOS and iPadOS app that deploys, runs, and chats with OpenClaw agents over SSH on a remote machine. Also supports Hermes, Claude Code, and Codex CLI. |
 | [PinchChat](https://github.com/MarlBurroW/pinchchat) | - | Open-source webchat UI with ChatGPT-like interface, live tool call visualization, multi-session management, token tracking, streaming, PWA, 8 languages |
 | [webclaw](https://github.com/ibelick/webclaw) | 155+ | Fast, minimal web client for OpenClaw |
 
