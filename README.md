@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/samuraigpt-awesome-openclaw-badge.png)](https://mseep.ai/app/samuraigpt-awesome-openclaw)
+
 # Awesome OpenClaw [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of **OpenClaw** resources, tools, skills, tutorials, articles, and community projects — the open-source self-hosted AI agent taking the world by storm.
