@@ -390,6 +390,7 @@ A curated list of community-built projects, tools, and integrations for OpenClaw
 | [opik-openclaw](https://github.com/comet-ml/opik-openclaw) | 50 | OpenClaw plugin for trace-level observability in Opik. See LLM spans, tool calls, sub-agent spans, usage, and cost metadata. Setup alerts and catch issues with your claw. |
 | [clawmetrics](https://github.com/observability/clawmetrics) | - | Prometheus metrics exporter |
 | [openclaw-logs](https://github.com/logging/openclaw-logs) | - | Structured logging plugin |
+| [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor-frontend) | NEW | AI monitoring AI — lightweight agent status dashboard with real-time heartbeat, session/token stats, multi-gateway management, and responsive Vue 3 UI. [Demo](http://47.109.47.116/) |
 | [AgentPulse](https://github.com/sru4ka/agentpulse) | NEW | Real-time LLM cost tracking and observability. Track tokens, costs, latency, and errors across 50+ models. [ClawHub skill](https://clawhub.ai/) available. |
 | [WatchClaw](https://github.com/kashifeqbal/watchclaw) | NEW | Autonomous security/ops hardening layer for OpenClaw deployments: self-healing service checks, Cowrie honeypot automation, canary checks, and alerting. |
 | [OpenClaw Setup Cost Calculator](https://guardclaw.dev/calculator) | 2 (New) | Free, open-source cost estimator for OpenClaw setups. Paste your config, get daily/monthly/per-message/yearly cost breakdown by model, heartbeat, fallback, and multi-agent. |
