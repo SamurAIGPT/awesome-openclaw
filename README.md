@@ -4,7 +4,7 @@
 
 **OpenClaw** (formerly Moltbot, originally Clawdbot) is a free and open-source autonomous AI agent created by Peter Steinberger. It runs locally on your machine, connects to 50+ integrations, and lets you chat with AI through WhatsApp, Telegram, Discord, Signal, iMessage, and more — no subscription required.
 
-[![GitHub stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social)](https://github.com/openclaw/openclaw)
+[![GitHub stars](https://img.shields.io/github/stars/openclaw/opencaw?style=social)](https://github.com/openclaw/openclaw)
 
 <img width="1536" height="1024" alt="OpenClaw AI agent dashboard — open-source self-hosted personal AI assistant" src="https://github.com/user-attachments/assets/dc60b4c4-18f4-4ebd-a5b9-8294d2e924ab" />
 
