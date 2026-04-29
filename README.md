@@ -263,6 +263,7 @@ OpenClaw supports the **Model Context Protocol (MCP)** — the open standard ado
 | [What is OpenClaw?](https://www.digitalocean.com/resources/articles/what-is-openclaw) | DigitalOcean | Comprehensive explainer |
 | [Complete Installation Guide](https://www.aifreeapi.com/en/posts/openclaw-installation-guide) | AI Free API | WhatsApp, Telegram, Discord setup |
 | [ClawPath](https://clawpath.dev) | Community | Chinese & English onboarding guide — install, channel, skills, security in 30 min |
+| [Install OpenClaw Guide](https://install-openclaw.net) | install-openclaw.net | Step-by-step VPS & local setup guides, Telegram/VPS install tutorials |
 
 ### Advanced
 
