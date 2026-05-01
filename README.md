@@ -402,6 +402,8 @@ A curated list of community-built projects, tools, and integrations for OpenClaw
 | [openclaw-trader](https://github.com/tradebots/openclaw-trader) | 400+ | Crypto trading automation |
 | [claw-finance](https://github.com/fintech/claw-finance) | - | Financial data analysis skills |
 | [VARRD](https://github.com/augiemazza/varrd) | NEW | Statistical edge discovery — turns trading ideas into validated setups with event studies, backtesting, and K-tracking. \ |
+| [Multi-Agent CFO OS](https://github.com/zan-maker/multi-agent-cfo-os) | NEW | Board-ready financial analysis with CHP-hardened multi-agent consensus and auditable reasoning trails |
+| [SEC Earnings Workbench](https://github.com/zan-maker/sec-earnings-workbench) | NEW | Multi-agent SEC research system — 10-K/10-Q analysis, earnings call synthesis, cross-model envelope verification |
 
 ### Development Workflows
 
@@ -532,7 +534,15 @@ Run `npm install -g openclaw@latest` then `openclaw onboard` to start the setup 
 | [lambda-lang](https://github.com/voidborne-d/lambda-lang) | NEW | Native agent-to-agent language with 3x character compression vs natural language. 340+ semantic atoms across 7 domains, Go + Python implementations. `clawhub install lambda-lang` |
 | [NoizAI/skills](https://github.com/NoizAI/skills) | NEW | Human-like TTS workflow skills with local/cloud backends, style presets, and voice message delivery scripts. |
 | [humanize-chinese](https://github.com/openclaw/skills/tree/main/skills/swaylq/humanize-chinese) | NEW | Detect and humanize AI-generated Chinese text with 6 style transforms and 16 detection patterns. Pure Python, no dependencies. `clawhub install humanize-chinese` |
+| [Cubiczan Swarm Pack](https://github.com/zan-maker/cubiczan-swarm-pack) | NEW | Zero-token agent swarm intelligence — stigmergy (GenSwarm) + adversarial consensus (CHP) + PARL learning for multi-agent coordination |
+| [Consensus Hardening Protocol](https://github.com/zan-maker/consensus-hardening-protocol) | NEW | Decision-governance layer for multi-agent systems — foundation disclosure, adversarial attack defense, R0 gate, EXPLORING→PROVISIONAL_LOCK→LOCKED workflow |
+| [GenSwarm Contract](https://github.com/zan-maker/genswarm-contract) | NEW | Stigmergic coordination protocol for agent-to-agent communication — self-organizing task boards, no central orchestrator |
+| [SwarmChat](https://github.com/zan-maker/swarmchat) | NEW | Multi-agent debate and deliberation platform — agents argue, converge, and produce consensus-driven outputs |
 
+| [MineScope](https://github.com/zan-maker/minescope) | NEW | Multi-agent critical mineral supply chain intelligence — geopolitics, trade flows, on-chain verification, risk scoring |
+| [CritMin Oracle](https://github.com/zan-maker/critmin-oracle) | NEW | On-chain oracle for critical mineral supply chain verification and risk assessment on HashKey Chain |
+| [SwarmFi](https://github.com/zan-maker/swarmfi-contract) | NEW | Decentralized prediction markets with agent swarm intelligence — stigmergic information aggregation for market resolution |
+| [DeltaFin Chat](https://github.com/zan-maker/deltafin-chat) | NEW | Web3 compliance chat agent — token governance, SEC filing analysis, portfolio compliance monitoring |
 ---
 
 ## XVARY Stock Research
