@@ -348,6 +348,7 @@ A curated list of community-built projects, tools, and integrations for OpenClaw
 | Project | Stars | Description |
 |---------|-------|-------------|
 | [moltworker](https://github.com/nicepkg/moltworker) | 7.9k | Run OpenClaw on Cloudflare Workers |
+| [OneClickClaw](https://oneclickclaw.io) | NEW | Managed OpenClaw on a dedicated EU VPS, one-click deploy. Your AI assistant on Telegram/WhatsApp/Discord, BYOK no markup, auto-updates and backups, hardened, GDPR/EU data residency |
 | [OpenClaw Easy](https://openclaw-easy.com) | NEW | Zero-setup OpenClaw desktop app for macOS & Windows. No terminal, no config files — download, launch, and chat via WhatsApp, Telegram, Slack, Discord, Feishu or Line in minutes. Runs 100% locally. |
 | [OpenClawInstaller](https://github.com/getinstall/OpenClawInstaller) | 1.3k | One-click deployment tool for OpenClaw |
 | [OpenClaw Kit (TurboStarter)](https://www.turbostarter.dev/openclaw) | NEW | Opinionated OpenClaw wrapper starter kit with infrastructure, auth, billing, integrations, dashboard and deployment setup. |
