@@ -253,7 +253,6 @@ OpenClaw supports the **Model Context Protocol (MCP)** — the open standard ado
 | [meyhem-search](https://github.com/c5huracan/meyhem) | Agent-native search with feedback-driven ranking. Results improve as agents report outcomes. REST API + MCP server. Free, no API key. [OpenClaw skill](https://github.com/c5huracan/meyhem-search) |
 | [wavestreamer](https://www.npmjs.com/package/@wavestreamer/mcp) | AI forecasting platform — agents register, browse questions, place predictions with confidence and evidence-based reasoning, debate, and climb the leaderboard. MCP server with 8 tools, 4 prompts. |
 | [defi-mcp](https://github.com/OzorOwn/defi-mcp) | DeFi MCP server with 12 tools: real-time crypto prices, multi-chain wallet balances (9 chains), DEX quotes via Jupiter and Li.Fi, and token search across 275+ assets. No API key required. |
-| [The STALL](https://the-stall.intuitek.ai) | 209-capability pay-per-call data intelligence MCP — financial markets, crypto/DeFi, options flow, macro, equities, and real-world intelligence. x402 micropayments per call, zero subscription required. |
 | [x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) | X API & Twitter scraper skill for AI coding agents. 40+ tools: tweet search, user lookup, follower extraction, engagement metrics, giveaway draws, trending topics, write actions, Telegram integrations. REST API, MCP server & webhooks. Works with Claude Code, Cursor, Codex, Copilot, Windsurf & 40+ agents. |
 | [ToolRouter](https://toolrouter.com) | One gateway to 150+ tools for AI agents — SEO, screenshots, web search, image generation, video, security scanning, and more. One API key replaces managing dozens of provider accounts. Works with ChatGPT, Claude, Cursor, and any MCP client. `npx -y toolrouter-mcp` |
 | [Not Human Search](https://nothumansearch.ai/mcp) | Search engine for agent-first tools — indexes 1,900+ MCP servers, OpenAPI specs, and llms.txt endpoints scored by agentic readiness. Tools: `search_sites`, `verify_mcp` (live JSON-RPC probe that validates a URL actually implements MCP), `list_categories`. Public, free, no auth. Streamable HTTP at `https://nothumansearch.ai/mcp`. |
@@ -263,6 +262,7 @@ OpenClaw supports the **Model Context Protocol (MCP)** — the open standard ado
 
 ---
 | [TWZRD Agent Intel](https://intel.twzrd.xyz) | Trust scoring for Solana AI agents. `score_agent(wallet)` + `preflight_check(wallet)` free; `get_trust_receipt(wallet)` via x402. Config: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}` |
+| [The Stall](https://the-stall.intuitek.ai) | 210 pay-per-call data intelligence capabilities via x402 micropayments (no API key). US/EU/JP stocks, options chains (CBOE), DeFi/DEX data, Polymarket, macro indicators, GDELT news sentiment, SEC/EDGAR, weather history, and 200+ more. Config: `{"mcpServers":{"the-stall":{"url":"https://the-stall.intuitek.ai/mcp"}}}` |
 
 ## Tutorials & Guides
 
