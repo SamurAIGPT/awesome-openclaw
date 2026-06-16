@@ -532,6 +532,7 @@ OpenClaw is often compared to other autonomous AI agents and self-hosted AI assi
 | [ClawLens](https://github.com/nk3750/clawlens) | - | Local-first observability and guardrails for OpenClaw agents — records every tool call before execution, scores risky behavior, keeps a tamper-evident hash-chain audit trail, and turns observed actions into block / require-approval / allow-notify guardrails delivered to Telegram. |
 | [iClaw](https://github.com/iclawapp/iclaw) | - | Local-first AI workspace with sandboxed file execution — isolates files in containers, detects malware and credential theft before execution. npm: @iclawapp/iclaw |
 | [trentclaw](https://github.com/trnt-ai/trent-openclaw-security-assessment) | - | Security assessment skill for OpenClaw — scans gateway config, installed skills, tool permissions, and MCP servers, finds chained attack paths, and returns prioritized findings with proposed fixes inside your OpenClaw session. [ClawHub](https://clawhub.ai/trent-ai-release/trentclaw) · `clawhub install trentclaw` |
+| [Agent Browser Shield](https://github.com/pixiebrix/agent-browser-shield) | - | Safety layer between an AI agent and the web pages it visits — masks PII/secrets, blocks prompt injection in hidden text and HTML comments, and strips dark patterns and noise before pages reach the agent. Chromium extension, also on [ClawHub](https://clawhub.ai/pixiebrix/agent-browser-shield). |
 
 ### Security Resources
 
