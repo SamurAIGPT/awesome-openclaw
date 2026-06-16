@@ -397,6 +397,7 @@ A curated list of community-built projects, tools, and integrations for OpenClaw
 | [archestra](https://github.com/enterprise/archestra) | 2.8k | OpenClaw for Enterprise with RBAC |
 | [openclaw-saml](https://github.com/auth0/openclaw-saml) | - | SAML authentication for OpenClaw |
 | [claw-audit](https://github.com/compliance/claw-audit) | - | Audit logging and compliance tools |
+| [erpclaw](https://github.com/avansaber/erpclaw) |  | AI-native open-source ERP + double-entry accounting, self-hosted, run in plain English |
 
 ### Chinese IM Integrations
 
