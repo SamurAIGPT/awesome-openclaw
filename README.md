@@ -389,6 +389,7 @@ A curated list of community-built projects, tools, and integrations for OpenClaw
 | [soul-upload.com](https://soul-upload.com) | - | Encrypted backup storage for OpenClaw workspace artifacts (SOUL.md, MEMORY.md, etc.) with client-side AES-256-CBC encryption |
 | [PLUR Memory Engine](https://github.com/plur-ai/plur) | - | Open-source persistent memory for OpenClaw agents. Learn, recall, forget, feedback. Local storage, zero cloud dependency. |
 | [ai-identity-persistence-contract](https://github.com/thebrierfox/ai-identity-persistence-contract) | - | AI identity persistence via read-only document contract — four-layer architecture for persistent agents that survive context window resets. MIT. |
+| [screenpipe](https://github.com/screenpipe/screenpipe) | 19k | Local-first screen + audio memory for your agent — records what you see and hear, searchable over MCP (`npx -y screenpipe-mcp`) or a local REST API. Gives OpenClaw recall of your real activity, 100% on-device. |
 
 ### Enterprise Solutions
 
