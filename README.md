@@ -531,12 +531,14 @@ OpenClaw is often compared to other autonomous AI agents and self-hosted AI assi
 | [OneCLI](https://github.com/onecli/onecli) | - | Open-source credential vault for AI agents. Rust HTTP gateway injects API keys transparently so agents never handle raw secrets. Per-agent scoped tokens, AES-256-GCM encryption at rest. |
 | [ClawLens](https://github.com/nk3750/clawlens) | - | Local-first observability and guardrails for OpenClaw agents — records every tool call before execution, scores risky behavior, keeps a tamper-evident hash-chain audit trail, and turns observed actions into block / require-approval / allow-notify guardrails delivered to Telegram. |
 | [iClaw](https://github.com/iclawapp/iclaw) | - | Local-first AI workspace with sandboxed file execution — isolates files in containers, detects malware and credential theft before execution. npm: @iclawapp/iclaw |
+| [trentclaw](https://github.com/trnt-ai/trent-openclaw-security-assessment) | - | Security assessment skill for OpenClaw — scans gateway config, installed skills, tool permissions, and MCP servers, finds chained attack paths, and returns prioritized findings with proposed fixes inside your OpenClaw session. [ClawHub](https://clawhub.ai/trent-ai-release/trentclaw) · `clawhub install trentclaw` |
 
 ### Security Resources
 
 - [CrowdStrike Analysis](https://www.crowdstrike.com/en-us/blog/what-security-teams-need-to-know-about-openclaw-ai-super-agent/) - Security team guide
 - [Giskard: OpenClaw Security Vulnerabilities](https://www.giskard.ai/knowledge/openclaw-security-vulnerabilities-include-data-leakage-and-prompt-injection-risks) - Data leakage & prompt injection risks
 - [Cisco: Personal AI Agents Security](https://blogs.cisco.com/ai/personal-ai-agents-like-openclaw-are-a-security-nightmare) - Enterprise security perspective
+- [ClawHub By the Numbers: What 52,652 Skills Reveal](https://trent.ai/blog/clawhub-by-the-numbers/) - Trent's metadata analysis of all 52,652 ClawHub packages: only 22% are clean, one account published 1,941, and why static scanning has little to scan
 
 ### Known Risks
 
