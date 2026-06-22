@@ -313,6 +313,10 @@ OpenClaw supports the **Model Context Protocol (MCP)** — the open standard ado
 
 - [What Security Teams Need to Know](https://www.crowdstrike.com/en-us/blog/what-security-teams-need-to-know-about-openclaw-ai-super-agent/) - CrowdStrike
 
+### Research & Surveys
+
+- [OpenClaw as Language Infrastructure: A Case-Centered Survey of a Public Agent Ecosystem in the Wild](https://www.preprints.org/manuscript/202603.1060) - Preprints.org · academic survey of the OpenClaw ecosystem across Platform, Security, Societies, and Deployment
+
 ---
 
 ## Community
