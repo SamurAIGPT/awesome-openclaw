@@ -598,3 +598,8 @@ This list is released into the public domain under CC0 1.0.
 
 *Last updated: February 2026*
 
+
+## Community Resource Additions
+
+<!-- Added 2026-06-24 by zlc000190 -->
+- [Meccha Chameleon Art](https://mecchachameleon.art/) — Fan-made browser atlas of 50+ hiding spots for the Steam hide-and-seek game Meccha Chameleon. Bilingual (EN/中文), paint color analysis. GitHub awesome list: https://github.com/zlc000190/AwesomeMecchaChameleonHideSpot
