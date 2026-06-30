@@ -236,6 +236,8 @@ openclaw plugins install <npm-package>
 
 OpenClaw supports the **Model Context Protocol (MCP)** — the open standard adopted by Anthropic, OpenAI, Google DeepMind, and the Linux Foundation — giving your agent access to a growing ecosystem of 13,000+ MCP servers.
 
+- [llm-box](https://github.com/alib8b8/openclaw-llmbox) - Invoke llm-box workflows as callable tools in OpenClaw conversations. Supports 20+ LLM providers with YAML-driven pipelines. `openclaw plugins install alib8b8/openclaw-llmbox`
+
 ### MCP Resources
 
 - [MCP Adapter Plugin](https://github.com/androidStern-personal/openclaw-mcp-adapter) - Expose MCP tools as native agent tools
